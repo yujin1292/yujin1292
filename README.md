@@ -1,6 +1,5 @@
 개발자 꿈나무 👩‍💻
 
-Skill
 Android, Java, Kotlin, C++
 
 
