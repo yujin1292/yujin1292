@@ -1,7 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jin&fontSize=90)
-## About Me 😎
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin1292%2Fhit-counter&count_bg=%23CACEFD&title_bg=%23ECD3FF&icon=googlekeep.svg&icon_color=%23E7E7E7&title=Welcome%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jin&fontSize=90)
+
+## About Me 😎
 [![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin1292)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -12,8 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin1292&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin1292%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!---
