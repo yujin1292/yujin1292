@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Jin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jin&fontSize=90)
 ## About Me 😎
 
 [![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin1292)](https://github.com/anuraghazra/github-readme-stats)
