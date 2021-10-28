@@ -15,7 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin1292&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+## BOJ 👩‍💻
+[![Solved.ac sofod12](http://mazassumnida.wtf/api/v2/generate_badge?boj=sofod12)](https://solved.ac/sofod12/)
 
 <!---
 yujin1292/yujin1292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
