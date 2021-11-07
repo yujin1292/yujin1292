@@ -5,6 +5,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jin&fontSize=90)
 
 ## About Me 😎
+
+### 👉[ If you want know more about me  ](https://radial-snowplow-222.notion.site/About-me-a8b3d52755b34897b9e020bdd6ea05dc)
+
+### GitHub Stats
 [![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin1292)](https://github.com/anuraghazra/github-readme-stats)
 
 
