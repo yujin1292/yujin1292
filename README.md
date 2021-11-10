@@ -7,7 +7,7 @@
 ## About Me 😎
 
 ### 👉[ If you want know more about me  ](https://yujin2.notion.site/About-me-a8b3d52755b34897b9e020bdd6ea05dc)
-### 👉[ If you want know more about what I learned ](https://www.notion.so/yujin2/Study-26b6b392d36a41dd8fd65aba191db38f)
+### 👉[ If you want know more about what I learned ](https://www.notion.so/yujin2/Study-Log-26b6b392d36a41dd8fd65aba191db38f)
 
 
 ### GitHub Stats
